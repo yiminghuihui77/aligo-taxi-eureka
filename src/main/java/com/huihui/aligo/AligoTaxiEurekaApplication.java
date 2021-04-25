@@ -14,7 +14,7 @@ public class AligoTaxiEurekaApplication {
 
     public static void main( String[] args ) {
         SpringApplication.run( AligoTaxiEurekaApplication.class, args );
-        LOGGER.info( "eureka server started success..." );
+        LOGGER.info( "aligo-taxi-eureka server started success..." );
     }
 
 }
